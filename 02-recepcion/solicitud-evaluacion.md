@@ -1,0 +1,15 @@
+# Formulario de recepción
+- ID de solicitud:
+- Sistema / versión / commit / imagen:
+- Propietario y área:
+- Responsable técnico / contactos de emergencia:
+- Entorno / URL / IP / endpoints:
+- Tecnologías / autenticación / roles:
+- Datos: públicos / internos / personales / sensibles:
+- APIs internas y terceros:
+- Repositorio / OpenAPI / diagramas / SBOM:
+- Cuentas sintéticas y matriz de permisos:
+- Ventana y restricciones autorizadas:
+- Fecha objetivo de liberación:
+- Evidencia de autorización:
+- Criterios de aceptación y requisitos regulatorios:

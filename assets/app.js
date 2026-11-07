@@ -1,0 +1,1 @@
+document.addEventListener('change',e=>{if(e.target.matches('input[data-step]')){const k=location.pathname+':'+e.target.dataset.step;localStorage.setItem(k,e.target.checked?'1':'0')}});document.querySelectorAll('input[data-step]').forEach(e=>{e.checked=localStorage.getItem(location.pathname+':'+e.dataset.step)==='1'});

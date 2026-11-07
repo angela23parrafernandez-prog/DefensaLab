@@ -1,0 +1,18 @@
+# Evidencias y datos sensibles
+.env
+.env.*
+!.env.example
+**/evidencias/**
+**/resultados/**
+**/reportes-reales/**
+**/*secret*.json
+**/zap-*.html
+**/trivy*.json
+**/gitleaks*.json
+**/semgrep*.json
+*.pcap
+*.har
+*.key
+*.pem
+*.p12
+.DS_Store

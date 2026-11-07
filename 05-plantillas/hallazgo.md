@@ -1,0 +1,14 @@
+# Hallazgo [ID]
+- Título:
+- Sistema / versión / endpoint saneado:
+- Severidad (justificación y contexto):
+- CWE / OWASP ASVS / WSTG:
+- Prerrequisitos y cuentas ficticias:
+- Pasos reproducibles y no destructivos:
+- Resultado esperado / observado:
+- Impacto en C/I/D:
+- Evidencia saneada / hash:
+- Recomendación:
+- Responsable y fecha objetivo:
+- Estado / excepción aprobada:
+- Retest y versión corregida:

@@ -1,0 +1,11 @@
+# Checklist final
+- [ ] Alcance y autorización documentados.
+- [ ] Commit, imagen y configuración de staging identificados.
+- [ ] Matriz de aplicabilidad y cobertura aprobadas.
+- [ ] SAST, SCA, secretos y DAST ejecutados o justificados.
+- [ ] Autenticación, autorización horizontal/vertical y sesiones comprobadas.
+- [ ] APIs, datos sensibles, lógica de negocio y auditoría comprobados.
+- [ ] Hallazgos confirmados y priorizados.
+- [ ] Correcciones críticas/altas retesteadas o tratadas según política.
+- [ ] Limitaciones, riesgos residuales y excepciones documentados.
+- [ ] Dictamen emitido y liberación autorizada por responsable competente.
