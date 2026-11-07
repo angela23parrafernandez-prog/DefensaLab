@@ -28,3 +28,10 @@ Cada guía HTML incluye una matriz de posibles hallazgos, rutas de navegación p
 - Servidores: 6 procedimientos en `08-infraestructura/servidores/`.
 
 Abrir `index.html` y elegir área. Todas las guías son estáticas y aptas para GitHub Pages.
+
+
+## Planes de auditoría por tiempo
+
+La página `planes.html` permite elegir 4 horas, 1 día, 4 días o 1 semana y filtra las 42 guías según prioridad acumulativa. Las casillas de seguimiento se guardan localmente en el navegador. No sustituyen una evaluación basada en riesgo ni garantizan la ejecución completa dentro del plazo.
+
+Desarrollado por: Ingeniera Ángela Parra, MGT — Magíster en Ciberseguridad.
