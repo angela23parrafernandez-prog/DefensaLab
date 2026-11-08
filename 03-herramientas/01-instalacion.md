@@ -13,3 +13,9 @@
 Comprobar versiones: `semgrep --version`, `trivy --version`, `gitleaks version`, `syft version`, `checkov --version`, `docker --version`.
 
 **No almacenar tokens reales** en colecciones Bruno ni en scripts. Fijar versiones aprobadas y actualizar con control de cambios.
+
+## Prueba 25: compatibilidad y costo
+- Gitleaks: gratuito/código abierto; Windows y Ubuntu.
+- Trivy: gratuito/código abierto; Windows y Ubuntu.
+- Semgrep Community Edition: gratuito para uso local; Ubuntu nativo; en Windows se recomienda WSL2/Ubuntu, sujeto a la versión. Las funciones de plataforma comercial quedan fuera del procedimiento.
+- Comprobar versiones y licencias vigentes en los enlaces oficiales antes de instalar. No usar servicios de pago ni cargar código confidencial en la nube.

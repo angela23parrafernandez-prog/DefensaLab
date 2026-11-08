@@ -9,3 +9,10 @@
 - [ ] Correcciones críticas/altas retesteadas o tratadas según política.
 - [ ] Limitaciones, riesgos residuales y excepciones documentados.
 - [ ] Dictamen emitido y liberación autorizada por responsable competente.
+
+## Evidencia de Prueba 25 — código fuente
+- [ ] Origen ZIP o Git, versión/commit y alcance documentados.
+- [ ] Gitleaks ejecutado en archivos; historial Git si está disponible.
+- [ ] Semgrep CE ejecutado o limitación justificada.
+- [ ] Trivy ejecutado o limitación justificada.
+- [ ] Hallazgos validados, evidencias redactadas y correcciones/retest registrados.
